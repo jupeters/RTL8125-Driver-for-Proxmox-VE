@@ -34,7 +34,7 @@ Support Linux kernel version 2.4 to 5.6   【支持的Linux内核版本，从2.4
 
 3.克隆我的仓库  [Clone my .git]
 
-	root@hostname# git clone https://github.com/jupeters/RTL8125-Driver-for-Proxmox-VE5-6-and-debian.git
+	root@hostname# git clone https://github.com/jupeters/RTL8125-Driver-for-Proxmox-VE.git
 
 4.切换到目录	  [Change dir]   
 
